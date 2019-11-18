@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+tr,
+td,
+table {
+	border: 1px solid #333;
+	border-collapse: collapse;
+	padding: 2px 50px;
+}
+
+table {
+	text-align: center;
+}
